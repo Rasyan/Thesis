@@ -14,7 +14,7 @@ The code has been build with ease of use in mind. There are three main notebook 
     - You select the models to visualize at the start, the graphs automatically add all selected models.
     
 The code has been confirmed to run at these specific versions of the following libraries: 
-  - pytorch_pretrained_bertL 0.6.2
+  - pytorch_pretrained_bert: 0.6.2
   - mne: 0.20.7
   - Torch: 0.4.1
   
